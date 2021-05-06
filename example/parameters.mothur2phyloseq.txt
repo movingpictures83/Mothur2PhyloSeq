@@ -1,0 +1,2 @@
+shared	output.shared
+taxonomy	output.taxonomy

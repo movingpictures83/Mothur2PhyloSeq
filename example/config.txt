@@ -1,0 +1,2 @@
+Prefix plugins/Mothur2PhyloSeq/example/
+Plugin Mothur2PhyloSeq inputfile parameters.mothur2phyloseq.txt outputfile .
